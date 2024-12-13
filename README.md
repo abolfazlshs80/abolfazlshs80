@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abolfazl Shabani</h1>
 <h3 align="center">A passionate Backend developer from Iran</h3>
+<img align="right" alt="sheikh python" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikh-python&label=Profile%20views&color=0e75b6&style=flat" alt="sheikh-python" /> </p>
 - 🌱 I’m currently learning **ASP.NET**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abolfazlshs80](https://github.com/abolfazlshs80)
