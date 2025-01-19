@@ -10,7 +10,7 @@
 - 👨‍💻 You can explore all of my projects [here](https://github.com/abolfazlshs80).
 - 💬 Ask me about **C#**, **.NET**, and backend technologies.
 - 📫 Reach me at **abolfazlshs80@gmail.com**.
-
+- my telegram channel <a href ="https://t.me/dotnet_iran98">telegram</a>
 ---
 
 ### 🚀 Connect with Me
