@@ -10,13 +10,12 @@
 - 👨‍💻 You can explore all of my projects [here](https://github.com/abolfazlshs80).
 - 💬 Ask me about **C#**, **.NET**, and backend technologies.
 - 📫 Reach me at **abolfazlshs80@gmail.com**.
-- my telegram channel <a href ="https://t.me/dotnet_iran98">telegram</a>
 ---
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abolfazlshabani8011)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/abolfazlshabani8011)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dotnet_iran98)
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
